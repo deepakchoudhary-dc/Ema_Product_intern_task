@@ -1,0 +1,39 @@
+[project]
+name = "auto-insurance-claim-processor"
+version = "1.0.0"
+description = "AI-powered auto insurance claim processing system"
+authors = [
+    {name = "Auto Insurance Claim Processor Team"}
+]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+keywords = ["insurance", "claims", "ai", "streamlit", "agentic", "ema"]
+
+dependencies = [
+    "streamlit>=1.45.0",
+    "llama-index>=0.10.0",
+    "pydantic>=2.0.0",
+    "pandas>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "nest-asyncio>=1.6.0",
+    "typing-extensions>=4.0.0",
+    "google-generativeai>=0.7.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/your-username/auto-insurance-claim-processor"
+Repository = "https://github.com/your-username/auto-insurance-claim-processor.git"
+Issues = "https://github.com/your-username/auto-insurance-claim-processor/issues"
+
+[project.scripts]
+claim-processor = "streamlit_app:main"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*"]
+exclude = ["tests*", ".idea*", "__pycache__*"]

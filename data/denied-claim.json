@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLAIM-0003",
+  "policy_number": "POLICY-DEF456",
+  "claimant_name": "Robert Martinez",
+  "date_of_loss": "2025-07-01",
+  "loss_description": "Vehicle used for Uber ridesharing service was rear-ended at stoplight. Significant trunk damage reported.",
+  "estimated_repair_cost": 8500.00,
+  "vehicle_details": "2021 Nissan Altima",
+  "special_notes": "Commercial use - ridesharing activity at time of loss"
+}

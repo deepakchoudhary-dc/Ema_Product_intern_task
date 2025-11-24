@@ -1,0 +1,9 @@
+{
+  "claim_number": "CLAIM-0002",
+  "policy_number": "POLICY-XYZ789",
+  "claimant_name": "Alice Johnson",
+  "date_of_loss": "2025-06-18",
+  "loss_description": "Single vehicle accident. Hit guardrail during heavy rain. Significant front-end damage.",
+  "estimated_repair_cost": 12500.00,
+  "vehicle_details": "2020 Toyota Camry"
+}

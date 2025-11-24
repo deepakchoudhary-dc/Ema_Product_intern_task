@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLAIM-0006",
+  "policy_number": "POLICY-MNO345",
+  "claimant_name": "Jennifer Williams",
+  "date_of_loss": "2025-07-05",
+  "loss_description": "T-bone collision at intersection. Driver reports neck and back pain, transported to hospital via ambulance. Vehicle sustained driver-side door and pillar damage.",
+  "estimated_repair_cost": 9500.00,
+  "vehicle_details": "2022 Toyota RAV4",
+  "special_notes": "Bodily injury claim - medical treatment ongoing, potential litigation risk"
+}

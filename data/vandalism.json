@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLAIM-0007",
+  "policy_number": "POLICY-PQR678",
+  "claimant_name": "David Kim",
+  "date_of_loss": "2025-07-10",
+  "loss_description": "Vehicle vandalized overnight in apartment parking lot. All four tires slashed, windows smashed, spray paint on hood and doors. Police report filed.",
+  "estimated_repair_cost": 6500.00,
+  "vehicle_details": "2020 Mazda CX-5",
+  "special_notes": "Comprehensive coverage claim - vandalism, potential pattern in area"
+}

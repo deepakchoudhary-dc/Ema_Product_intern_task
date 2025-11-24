@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLAIM-0004",
+  "policy_number": "POLICY-GHI789",
+  "claimant_name": "Sarah Chen",
+  "date_of_loss": "2025-06-25",
+  "loss_description": "High-speed collision on interstate highway. Vehicle rolled multiple times. Driver sustained minor injuries. Vehicle deemed total loss by initial inspection.",
+  "estimated_repair_cost": 35000.00,
+  "vehicle_details": "2019 Ford Explorer",
+  "special_notes": "Total loss - vehicle value approximately $28,000"
+}

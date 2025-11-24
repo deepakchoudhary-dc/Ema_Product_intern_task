@@ -1,0 +1,10 @@
+{
+  "claim_number": "CLAIM-0005",
+  "policy_number": "POLICY-JKL012",
+  "claimant_name": "Michael Thompson",
+  "date_of_loss": "2025-06-30",
+  "loss_description": "Multi-vehicle accident involving 4 cars during morning commute. Claimant's vehicle struck from behind, pushed into vehicle ahead. Both front and rear damage. Two other parties involved with separate insurance carriers.",
+  "estimated_repair_cost": 15000.00,
+  "vehicle_details": "2023 Honda Accord",
+  "special_notes": "Subrogation potential - not at fault, rear-ended by third party"
+}
